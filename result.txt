@@ -1,0 +1,16 @@
+name and last name : yacine ouldbadja
+
+for 𝐻 (𝑖𝑑 | | 𝑥)<=0000000000000000000ffdd712a852e0d4234e6
+i did not find "X" : x= 3194052213
+Number of calculations nb= 3194052213
+
+
+for  𝐻 (𝑖𝑑 | | 𝑥)<=03b1663dda6549a0939ffdd712a852e0d4234e6b
+
+x = 42
+Number of calculations nb= 42
+
+for  𝐻 (𝑖𝑑 | | 𝑥)<=00005d10cc11e27bd8d4d1ce91bc725665ddbaa6ca2498ef38a88a58ad48cdb4
+
+x=186065
+Number of calculations nb= 186065
